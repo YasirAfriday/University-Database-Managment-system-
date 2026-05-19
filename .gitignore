@@ -1,0 +1,11 @@
+# DB tooling
+*.dmp
+*.bak
+*.sqlite
+*.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
